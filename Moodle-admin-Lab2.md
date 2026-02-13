@@ -392,7 +392,8 @@ Data settings:
 
 **บันทึกรูปหน้า Users (Teacher):** 
 ```
- # บันทึกรูปหน้า Users
+<img width="1903" height="972" alt="image" src="https://github.com/user-attachments/assets/f96bc95d-4d68-4ec8-a0c8-6accd380130c" />
+
 ```
 ---
 
