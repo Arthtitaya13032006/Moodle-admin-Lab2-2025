@@ -471,7 +471,8 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 
 **บันทึกรูปหน้า Enroll ครู:** 
 ```
- # บันทึกรูปหน้า Enroll
+<img width="1034" height="625" alt="image" src="https://github.com/user-attachments/assets/c39d424c-d841-4162-a050-985fb60ec4f9" />
+
 ```
 
 **Enroll นักเรียนผ่าน Cohort sync:**
@@ -482,12 +483,14 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 
 **บันทึกรูปหน้า Enroll นักเรียน:** 
 ```
- # บันทึกรูปหน้า Enroll
+<img width="1043" height="641" alt="image" src="https://github.com/user-attachments/assets/a547bed1-978d-41df-a746-b85e4fe7112d" />
+
 ```
 
 **บันทึกรูปหน้า Course ที่ Enrol User แล้ว :** 
 ```
- # บันทึกรูปหน้า Course ที่ Enrol User แล้ว
+<img width="1901" height="969" alt="image" src="https://github.com/user-attachments/assets/a572bcf7-9b5a-48cf-a660-683d43694ab9" />
+
 ```
 
 #### 6.2 เพิ่ม Activities
@@ -519,7 +522,8 @@ Grade to pass: 60%
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
 ```
- # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
+<img width="1902" height="972" alt="image" src="https://github.com/user-attachments/assets/72b66532-1eae-4734-9817-b05687009ef5" />
+
 ```
 
 
